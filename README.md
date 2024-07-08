@@ -15,15 +15,15 @@ I thrive on transforming raw data into actionable insights and love leveraging t
 
 ## Projects
 
-### 1. Sales Analysis Dashboard
+### 1. Electronics Sales Analysis 
 - **Description**: Analysis 12 months sales data to identify trends, and forecast future sales.
 - **Technologies**: Python, Pandas, Matplotlib, Seaborn
-- **Repository**: [Sales Analysis]
+- **Repository**: [Sales Analysis](https://github.com/prajaktakadu11/Electronics_Sales_Analysis)
 
 ## Experience
 
 ### Spatial Data Specialist at Here Technologies 
-- **Duration**: May 2018 - Feb 2022
+- **Duration**: May 2019 - Feb 2022
 - **Responsibilities**:
   - Analyzed large datasets to extract meaningful insights and patterns.
   - Digitize mapping database using required tools as per defined processes.
@@ -35,10 +35,10 @@ I thrive on transforming raw data into actionable insights and love leveraging t
   - Mumbai University, Post-Graduated: 2023
 
 - **Bachelor of Engineering (IT)**
-  - Mumbai University, Post-Graduated: 2023 
+  - Mumbai University, Graduated: 2018 
 
 ## How to reach me
-- **LinkedIn**: 
+- **LinkedIn**: www.linkedin.com/in/prajaktakadu11
 - **Email**: kaduprajakta98@gmail.com
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch for collaborations or opportunities.
