@@ -12,12 +12,6 @@ I thrive on transforming raw data into actionable insights and love leveraging t
 - **Database Management**: MySQL
 - **Other Tools**: Git, Jupyter Notebook
 
-## Projects
-
-### 1. Electronics Sales Analysis 
-- **Description**: Analysis 12 months sales data to identify trends, and forecast future sales.
-- **Technologies**: Python, Pandas, Matplotlib, Seaborn
-- **Repository**: [Sales Analysis](https://github.com/prajaktakadu11/Electronics_Sales_Analysis)
 
 ## Experience
 
