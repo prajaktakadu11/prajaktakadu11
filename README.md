@@ -7,7 +7,7 @@ I thrive on transforming raw data into actionable insights and love leveraging t
 # Skills and Tools
 
 - **Programming Languages**: Python, SQL
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
+- **Data Visualization**: Excel, Tableau, Power BI, Matplotlib, Seaborn
 - **Data Manipulation**: Pandas, NumPy
 - **Database Management**: MySQL
 - **Other Tools**: Git, Jupyter Notebook, Jira
