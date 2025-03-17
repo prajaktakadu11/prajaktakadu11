@@ -43,7 +43,7 @@ I thrive on transforming raw data into actionable insights and love leveraging t
   - Mumbai University, Graduated: 2018 
 
 # How to reach me
-- **LinkedIn**: www.linkedin.com/in/prajaktakadu11
+- **LinkedIn**: https://www.linkedin.com/in/prajaktak97/
 - **Email**: kaduprajakta98@gmail.com
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch for collaborations or opportunities.
